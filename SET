@@ -1,0 +1,9 @@
+#salwa sedang mengerjakan soal statistika yang memiliki banyak angka. kemudian salwa meminta bantuan 
+#kepada saya untuk membuatkan program supaya angka yang muncul hanya sekali. 
+
+#input:meminta inputan dalam code berupa angka 
+#proses: memakai instruksi set yang akan menampilkan hanya sekali saja angka yang sama
+#ouput: menampilkan angka yang ada di inputan 
+
+angka= {87,88,75,76,66,54,75,80,98,92,88}
+print(angka)
